@@ -1,0 +1,3 @@
+# SimpleQA
+
+> This small test dataset contains 15 unique question-answer pairs with 3 questions and 5 answers to each question. This dataset was originally created to evaluate the Telemetry module in the ClarifAI LLM-assisted clarification pipeline, to conduct contextual relevance classifications. The label column of this dataset indicates whether the answer to the given question is *contextually relevant* (1) or not (0). A contextually relevant answer to a question is one that, at least partially, addresses the informational intent of the question. 

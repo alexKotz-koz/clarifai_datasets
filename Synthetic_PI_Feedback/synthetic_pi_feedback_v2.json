@@ -1,0 +1,752 @@
+{
+    "efd63f5b-4851-4615-b29e-68d06b73ad13": {
+        "question_1_answer": "Clinic flow is what I notice first. When the record system cooperates, I can stay on time and keep my attention on the patient, but small changes or extra steps can throw off the whole morning.\n\nI like technology when it quietly helps recalls, charting, and handoffs. Still, there’s a tired feeling in clinic when tools keep shifting, because it pulls me away from listening and patient education.",
+        "persona_use": "I kept the response brief, somewhat impressionistic, and a little noncommittal to match the vague feedback style. I answered in first person with a practical, patient-facing clinical tone, emphasizing workflow, charting, recalls, listening, and change fatigue in a way that fits a dental hygienist who values calm visits and low cognitive load.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "5e2b8e53-1cc5-44e3-9edf-34e8dee784d5": {
+        "question_1_answer": "From the patient side, I can usually make it work, but healthcare technology still adds too much clicking, double-checking, and disruption. Every change feels like one more thing between me and a straightforward conversation with the person in the chair.",
+        "persona_use": "I wrote in first person with the perspective of an experienced dentist who values routine, empathy, and reduced cognitive load. Because the feedback style was vague and the response needed to be contextually indirect, I kept it brief, negative, and focused on general EHR burden and clinic change fatigue rather than specific product details.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "785f4a0d-95d2-4786-bb4c-601fc9736523": {
+        "question_1_answer": "My first impression is positive: the layout looks clean and pretty easy to follow. I like that the patient side clearly separates forms “to do” versus “complete,” and the clinician view shows what is ready for review before the visit. For my work, having PHQ-9, GAD-7, ACE, SDOH, consent, and demographics in one place is useful because those directly affect nutrition counseling and care planning.\n\nI also like the straightforward demographics form. The fields are familiar, and the save/submit workflow is obvious. The search and form list could help staff and patients find things quickly, especially if this feeds discrete data into the EHR instead of scanned PDFs.\n\nMy hesitation is mainly usability. The text looks small, the purple/gray contrast feels a little light, and some labels are truncated. On a phone, that could frustrate patients. I would also want clearer visual flags for incomplete high-priority forms or concerning scores so I can act fast in clinic.",
+        "persona_use": "I answered directly and concretely because the persona calls for clear, detailed, contextually relevant feedback. I used a practical, clinician think-aloud tone shaped by a dietitian’s workflow, focusing on behavioral and social screening, patient comprehension, documentation, and how the interface would support shared decision-making and efficient EHR use.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "2849673c-9707-4c81-9b2d-18cb0eeb3162": {
+        "question_1_answer": "It slows my day down when another tech change lands on top of an already packed OR and clinic schedule. I can usually adapt, but the extra messages and cleanup work add up fast.\n\nWhat wears on me most is the constant mental switching. If a tool does not clearly cut documentation burden, it just feels like one more thing.",
+        "persona_use": "I kept the tone blunt, efficient, and clinician-centered, focusing on workflow drag, documentation burden, and cognitive load in first person. Because the feedback style was vague and the response needed to be contextually irrelevant, I stayed brief, impressionistic, and avoided directly addressing any product-specific details.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "16365468-509c-4e74-a964-854df141f85a": {
+        "question_1_answer": "Some of the newer tools seem promising, but I feel worn down by constant EHR changes, extra clicks, and inbox churn. It can pull my attention away from listening well, and that cumulative fatigue is hard to ignore.",
+        "persona_use": "I used a seasoned primary care clinician voice, kept the feedback brief and impressionistic, and emphasized change fatigue, cognitive load, and protecting attention for patient care.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "a410c031-bf9e-4835-ad6c-55a1a0869ed8": {
+        "question_1_answer": "Patients could probably move through this without much training. The status column is easy to scan, and separating “Forms To Do” from “Completed Forms” makes sense.\n\nI like that the intake appears to pass discrete data instead of dumping PDFs into the chart. For me, that matters because demographics and social needs are more useful when I can find them quickly before a nutrition visit.\n\nWhat gives me pause is the wording and density. Form titles like PFIQ-7 or ACE are not patient-friendly, the visit text looks cramped, and the demographics page feels long—especially fields like SSN and prior names on one screen.",
+        "persona_use": "I answered the question directly and kept it concrete, since the feedback style called for clear, detailed, contextually relevant comments. I used a practical, clinician think-aloud tone and focused on patient usability, scanability, cognitive load, and whether intake data would be easy to use in care planning, which fits how I would look at this as a dietitian early in practice.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "6a09bfbe-b770-4427-a735-9a055c9a8a97": {
+        "question_1_answer": "My main concern is whether patients will know what is actually due versus just listed, because the patient view mixes completed and to-do items in one table. That said, the PHQ-9, GAD-7, ACE, and SDOH labels are easy for me to scan, and the status checkmarks make clinician review pretty straightforward.\n\nOn the form screens, the demographic page looks clean, but the fields feel dense and the small text could frustrate anxious or distracted patients on a phone. I do like the search-based form finder for staff, especially if it helps send the right behavioral health packet automatically and pushes scores into the EHR instead of another PDF.",
+        "persona_use": "I made the response clear and specific, with concrete comments about behavioral health questionnaires, patient confusion, mobile usability, and EHR workflow because that fits a newer behavioral health counselor who cares about empathy, adherence, and keeping visits efficient. I kept it directly tied to the wireframes and sounded candid rather than polished.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "503e12de-c8e3-4950-aab1-48c876ea4d1b": {
+        "question_1_answer": "In a busy clinic, this looks a bit clunky to me—the tables and small text feel hard to scan quickly, and I’m not sure patients or staff will always know what needs action versus what is already done.",
+        "persona_use": "I kept my feedback brief and somewhat impressionistic because the feedback style called for vague, noncommittal comments. I focused directly on workflow and scan-ability, which fits a clinician who is cautious about interface changes and cares about keeping visits efficient and patient-centered.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "8d71bfe2-6817-46c4-9d2e-13cb729b18e3": {
+        "question_1_answer": "What gives me pause first is that the interface looks very bare, so I’d want to be sure patients do not mistake it for something unfinished or untrustworthy. That said, the layout is easy to follow. I like that PHQ-9, GAD-7, ACE, quality of life, and social determinants are listed plainly with clear Complete versus To Do status and a visit date attached. For my work, that kind of structure matters because I need to know quickly what was done before I open the chart and start a sensitive conversation.\n\nThe demographics page also seems straightforward, and the Save and Submit buttons are clear, which should help patients who need to stop and come back. I do think the font and spacing look small, especially for older patients or anyone completing forms on a phone. I’d also want reassurance that the discrete answers flow cleanly into the EHR, not just as a PDF, because screening scores are only useful if I can act on them reliably during the visit.",
+        "persona_use": "I made the response direct and contextually relevant to the wireframes, using a clear, detailed first-person style. I focused on behavioral health workflow details such as PHQ-9, GAD-7, ACE, visit linkage, sensitive conversations, and EHR data flow, while also noting usability issues like trust, readability, and stopping and returning later.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "14888266-14eb-414f-a1d2-6bdc22c63922": {
+        "question_1_answer": "This would make our front-desk and rooming process cleaner for me. I like that the home screen immediately shows how many forms are left and separates “Forms To Do” from “Completed Forms.” The status column is easy to scan, and tying each form to a visit date, patient, and provider would help me confirm we have the right paperwork before the patient is seen. The patient view also looks simple enough that most people could understand what is done versus what still needs attention without a lot of coaching.\n\nThe basic demographics page is straightforward, which matters because errors there cause problems later in the chart. I can see the fields for name, DOB, sex, SSN, address, phone, and emergency contact clearly, and the save versus submit buttons are helpful. I also like the “Find Form” screen for quickly pulling the right intake packet. I would want slightly larger text and clearer required-field cues, but overall it looks organized and usable.",
+        "persona_use": "I answered directly and stayed focused on workflow, documentation accuracy, and patient adherence because those are the kinds of things I would pay attention to in a clinic intake tool. I used a warm but practical first-person voice, with clear and specific comments rather than vague reactions, reflecting a detailed feedback style and a cautious, task-oriented comfort with health technology.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "2b1304eb-555b-47d0-b1b4-185b203b553f": {
+        "question_1_answer": "I’d want to make sure the status labels and visit details stay easy to scan, but overall it looks clean and pretty straightforward.\n\nI can see myself finding demographics and incomplete forms quickly, which feels helpful for keeping visits focused.",
+        "persona_use": "I kept the feedback brief and a little noncommittal, matched to the vague detail style. I answered the interface question directly and focused on quick scanning, demographics, incomplete forms, and staying focused during visits, which fits a dietitian who values low cognitive load and efficient prep.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "6cefa01f-1cda-4227-92bd-2583d60ff90e": {
+        "question_1_answer": "I’m a little cautious about whether some patients will know where to click right away, but overall I think it looks clean and pretty easy to follow. I like the simple tabs, the clear complete/to-do status, and the basic demographics screen. If it moves into the chart reliably, I can see it helping check-in.",
+        "persona_use": "I kept the feedback brief and a little noncommittal because the persona called for vague, ambiguous detail. I answered the question directly and focused on practical intake workflow, patient ease, and dependable chart transfer, which fits a long-time CNA who is warm, steady, relationship-oriented, and comfortable with familiar systems but cautious about confusing interfaces.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "5701ed82-179c-4fca-812a-176f74197c03": {
+        "question_1_answer": "Getting intake data into clinic workflow looks fairly straightforward here. I can quickly see what is complete versus still due, and the screens seem simple enough for staff and patients to move through without much explanation.\n\nI do think it feels a little plain and somewhat cramped in places, especially the demographics page and form list. If the discrete fields really flow cleanly into the EHR, I’d be reasonably positive about it.",
+        "persona_use": "I answered the question directly and kept the feedback brief, impressionistic, and a little noncommittal to match the vague/ambiguous detail style. I focused on workflow, completion status, demographics entry, and EHR data flow because those are the parts I would naturally pay attention to when judging an intake interface as a clinician.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "06dd2a20-14d2-44a7-af59-5371c1311db9": {
+        "question_1_answer": "Workflow gets choppy when the EHR shifts under us, and I end up double-checking simple things more than I want to.\n\nI do appreciate tools that help me keep follow-ups straight, but change fatigue is real and people get tired fast.",
+        "persona_use": "I used a cautious, early-career clinician voice with brief, impressionistic feedback. I kept it somewhat noncommittal and broad, focusing on EHR burden and change fatigue rather than directly addressing anything more specific, while still sounding empathic and workflow-aware.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "60b179cd-b605-4ffc-a6ed-be7a7417a361": {
+        "question_1_answer": "It seems like it could keep intake and chart prep cleaner. I like the status table because I can see what is done and what still needs attention quickly.\n\nStill, it feels a bit plain, and some labels look easy to miss. The save and submit buttons also strike me as something patients could confuse.",
+        "persona_use": "I answered directly and kept it brief and somewhat noncommittal because the feedback style called for vague, ambiguous initial impressions. I stayed relevant to the wireframes and focused on workflow, status visibility, and button clarity, reflecting a pharmacist’s practical, safety-minded attention to accurate intake information.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "bdfb8073-c1a4-4f3c-9aeb-96670b6b1f34": {
+        "question_1_answer": "I appreciate when healthcare technology keeps med lists, recalls, and follow-up tasks in one place, because that can prevent things from slipping. But too often the EHR turns a straightforward hygiene visit into extra clicking, duplicate documentation, and inbox cleanup that follows me after the patient leaves.\n\nWhat wears me down most is constant change. Just when I get a reliable rhythm for charting periodontal findings, updating home-care instructions, and flagging adherence concerns, another workflow shifts. That adds cognitive load, breaks eye contact, and makes patient education feel rushed instead of personal.",
+        "persona_use": "I wrote in a candid first-person clinical voice, focusing on documentation, patient education, adherence, and cognitive load. I kept it concrete and specific because the detail level called for that, and I stayed broadly on healthcare technology and EHR burden rather than addressing any product-specific content.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "dec30a74-0de6-4741-b45f-6a279ecfc91b": {
+        "question_1_answer": "A few parts feel a bit plain to me, but I can follow the layout pretty fast. The tabs, status checks, and demographic form look clean and fairly easy to move through.\n\nOverall, I’d say it feels organized and not too overwhelming. I’d just want the search and save/submit pieces to stay really obvious, especially for quick intake work.",
+        "persona_use": "I kept the response brief, impressionistic, and a little noncommittal because the feedback-detail style was vague/ambiguous. I answered the question directly and stayed contextually relevant by focusing on the wireframe elements a CNA would notice right away during intake, like layout, status markers, search, and save/submit actions.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "3e365a6f-e1c8-434b-9b4c-ce3e111d58be": {
+        "question_1_answer": "I like that the layout reads quickly. The home screen gives me the important pieces right away: what is complete, what is still to do, and which visit each form belongs to. That is the kind of summary I can scan without thinking too hard. The demographics page is also straightforward; the labels are familiar, the fields are grouped logically, and the save/submit buttons are easy to spot. For a patient-facing tool, that simplicity is a real strength.\n\nA few things I’d refine. The text in the tables looks small, and older patients may struggle with that on a phone. I’d also want clearer distinction between “Save” and “Submit,” and the tab label “Completed Form” feels a little awkward compared with the other tabs. The Find Form screen is useful, but I’d want stronger visual cues so staff and patients immediately know what is selectable.",
+        "persona_use": "I kept the feedback concrete and workflow-focused, emphasizing quick scanning, familiar field structure, status visibility, and small friction points that would matter during clinical use. I answered directly about the wireframes, with a practical tone and specific observations rather than broad or vague comments.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "1c5dde30-d33e-4dcf-83dc-45123074a2c2": {
+        "question_1_answer": "I worry we have piled too many digital tasks onto routine care. I can counsel a patient on sodium goals in fifteen minutes, then spend another ten chasing referral messages, documenting education twice, and checking whether the handout actually reached the portal.\n\nWhen the system is stable, it helps. I like having weights, A1c trends, and prior PCP notes in one place, and telehealth is easier now than it used to be.\n\nWhat wears me down is constant change. A template shifts, inbox rules move, or scheduling logic gets reworked, and suddenly I need help for something that worked last week. That kind of change fatigue is real.",
+        "persona_use": "I used a candid, coaching-oriented clinical voice and focused on concrete outpatient workflow examples that fit counseling-based care, like nutrition education, lab review, referrals, and portal follow-up. I kept the response specific and clear because the profile called for detailed feedback, but I stayed broad and adjacent by talking about healthcare technology burden and change fatigue rather than any product-specific content.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "9b0cefb1-42b2-4659-95e6-abd0579941ac": {
+        "question_1_answer": "Overall, this looks clean and fairly easy for me to follow—the form list and completion status are quick to scan, and the demographics page feels simple. I’d just want to confirm the EHR handoff stays accurate and organized.",
+        "persona_use": "I kept the feedback brief and a little noncommittal because the detail style called for vague, initial impressions. I answered the interface question directly and focused on scanability, form completion, and accurate EHR transfer, reflecting a safety-minded medication reconciliation perspective.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "fede505f-eb8a-41b9-9ff0-66f17fea700f": {
+        "question_1_answer": "New technology can help when it actually removes duplicate charting. I rely on stable templates, quick perio documentation, and follow-up reminders that support care without pulling my attention away from the patient.\n\nWhat wears me down is constant change. One month the inbox process shifts, the next an order takes a different click path, and I end up asking a coworker before I risk sending something wrong. That extra mental load adds up fast when I’m already balancing patient education, billing-conscious notes, and staying present in the room.",
+        "persona_use": "I shaped this as a first-person response from a dental hygienist who is practical with technology, documentation-heavy, prevention-focused, and attentive to patient communication. Because the feedback style was clear and detailed, I used specific examples like perio documentation, templates, inbox changes, order routing, billing-conscious notes, and checking with coworkers. I kept it contextually broad by focusing on healthcare technology burden, EHR friction, and clinic change fatigue instead of discussing any product-specific details.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "ccddc002-a1f9-4f66-a47a-27bacea10c8c": {
+        "question_1_answer": "Clean and straightforward. I can tell quickly which forms are done, which are still to do, and which visit they belong to, and that matters in primary care when I need intake data before I walk into the room.\n\nThe provider and patient views seem consistent, which should reduce confusion. I also like the discrete demographic fields instead of a scanned PDF, but the text looks small and the pale purple contrast may be hard for older patients.\n\nThe form finder is useful, though the list feels a little sparse and icon-heavy. I’d want clearer labels for required fields, slightly larger action buttons, and less crowded date text so staff and patients can move faster without second-guessing.",
+        "persona_use": "I answered directly about the wireframes and tied my comments to clinic intake workflow, EHR-ready discrete data, and pre-visit review because the persona is contextually relevant and works in primary care. I kept the tone organized and practical, with specific interface observations and workflow implications, reflecting a clear/detailed feedback style and a clinician who values efficiency, patient satisfaction, and clean documentation.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "20a71eb7-f506-43e4-b593-ac0fc71ec816": {
+        "question_1_answer": "For patients, this looks a bit busy and not very intuitive, especially the forms list and the search screen. I can find my way around it, but I’d expect more hesitation with demographics and consent forms if someone is older, anxious, or using a phone. It feels functional, not especially smooth.",
+        "persona_use": "I kept the feedback brief and a little impressionistic to match the requested vague detail level. I answered the wireframe question directly and framed it like a nurse who is comfortable with routine systems but cautious about new screens, focusing on practical patient usability concerns and likely friction points in clinic use.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "836bda04-6cb5-4a49-878b-c1f90a507d70": {
+        "question_1_answer": "My day runs best when the tools stay predictable. When systems change too often or add extra work, I end up double-checking things on paper and leaning on coworkers more than I should.\n\nI can handle the routine parts, but constant updates wear people down. It adds to inbox pressure, makes simple follow-up feel heavier, and after a while staff stop trusting that the next change will really help.",
+        "persona_use": "I kept the response brief, general, and a little noncommittal to match the vague feedback style. I focused on steady clinic routine, workflow strain, paper backup, and relying on coworkers, which fits a service-oriented medical assistant who is comfortable with familiar EHR tasks but fatigued by frequent changes.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "3ffc5f6c-2f63-4452-b046-207fb811eb1b": {
+        "question_1_answer": "Patients open up more when the technology fades into the background, and lately that is not what I’m seeing. In nutrition visits, I need to listen for routines, barriers, and motivation, but too much of the day is pulled toward documentation, task routing, and hunting down past labs or referral details. That makes the visit feel less personal.\n\nI can manage a repeatable workflow, but constant changes wear me down fast. When something moves or a new process gets added, I stop trusting my muscle memory and I double-check everything. It raises my cognitive load, and then simple work takes longer than it should.\n\nThe hardest part is change fatigue. Every update is supposed to help, but if it adds clicks, extra training, or more after-visit charting, it just shifts the burden onto clinicians. I feel that most on busy counseling days, when I’m trying to protect time for shared decision-making and still finish notes.",
+        "persona_use": "I used a candid first-person clinical tone with concrete examples from nutrition counseling, chart review, labs, referrals, and after-visit documentation. I kept the response detailed and explicit because the feedback style called for clear detail, and I made it contextually indirect by not addressing any specific product and instead focusing on patient usability, EHR burden, cognitive load, and clinic change fatigue.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "27ade85d-d3ea-4a9b-bbf6-ec6c2600c37a": {
+        "question_1_answer": "When the tech is stable, I feel more confident and the day goes smoother. I can room patients, enter vitals and screening answers in the same order, and make sure the follow-up pieces match what was actually discussed.\n\nWhat wears me down is double work and constant small changes. If I write notes on paper first, then re-enter everything later, it adds time and makes mistakes more likely. A surprise charting issue can stall me long enough that I need help.\n\nI do think technology helps when it supports relationships instead of pulling me away from them. Patients notice when I’m listening versus clicking through tasks, and that matters just as much as getting the documentation right.",
+        "persona_use": "I answered in a candid first-person voice that fits an early-career CNA who is dependable, cautious, and focused on patient relationships. I kept it clear and specific by naming routine tasks like rooming, vitals, screening questions, paper notes, re-entry, and charting issues. Because the persona called for contextual irrelevance, I did not address any product-specific content and stayed on adjacent themes of EHR burden, workflow friction, and clinic change fatigue.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "5f0f5d3e-cf60-4a18-b62f-191d3be468c4": {
+        "question_1_answer": "I still hesitate anytime we add another digital process, because the burden usually lands in charting, inbox cleanup, and one more place to double-check allergies, meds, and follow-up instructions. If the technology cuts duplicate documentation and keeps preventive reminders reliable, I’m on board.\n\nWhat wears me down is constant change for the sake of change. I do best with a consistent sequence, clear routing, and tools that support patient education instead of pulling my attention away from the person in the chair.",
+        "persona_use": "I kept the response first-person and grounded in day-to-day clinical work, with specific mention of charting, routing, reminders, and patient education to fit a newer dental hygienist who is conscientious, prevention-focused, and comfortable with structured workflows. Because the persona called for clear/detailed feedback, I was concrete rather than vague. Because the persona was contextually irrelevant, I sidestepped any product-specific commentary and focused instead on broader EHR burden, workflow strain, and change fatigue.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "dbf588ae-8328-4483-a0cc-d41f13f33d1e": {
+        "question_1_answer": "The layout feels familiar to me, and I can see both staff and patients finding the Home, Forms To Do, and Completed Forms tabs without much coaching. The status table works well because I can quickly tell what is complete versus still pending and tie it to a specific visit date.\n\nWhere I’d push for improvement is readability and clarity. The font and click targets look small, especially on the Find Form list and the demographics page, and I’m not sure why both Save and Submit are needed without clearer guidance. I’d also want obvious confirmation that discrete data is going into the EHR, not just staying in PI.",
+        "persona_use": "I answered directly about the wireframes and kept the feedback contextually tied to intake workflow, patient usability, and EHR integration. I used a clear, detailed style with concrete comments on tabs, status visibility, font size, click targets, Save versus Submit, and data flow because this persona gives specific, practical feedback and cares about documentation, patient satisfaction, and keeping clinic work organized.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "aee85bd9-8eb2-48f1-b1f6-8d682a4a239b": {
+        "question_1_answer": "It feels encouraging when the technology stays steady and helps me keep up with people without extra back-and-forth.\n\nToo many changes at once can wear a clinic down, though, so I tend to trust simple routines that support follow-through and do not add more confusion.",
+        "persona_use": "I used a warm, practical frontline voice and kept the feedback brief, general, and a little noncommittal to match the requested vague level of detail. I focused on broad healthcare technology strain, routine workflow, and change fatigue rather than specific product details.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "ade9ab28-6e33-4f23-bbfc-033f5d145111": {
+        "question_1_answer": "Patients generally adapt faster than we do, and I can work with that. What wears on me is the steady pile of EHR clicks, inbox noise, and constant little changes that promise efficiency but mostly add one more thing to track. Useful at times, tiring more often than not.",
+        "persona_use": "I kept the feedback brief, impressionistic, and a little noncommittal to match the requested vague level of detail. I answered in a practical first-person clinician voice, emphasizing documentation burden and change fatigue rather than specific product commentary, which fits the contextual drift and an experienced orthopedic surgeon’s priorities.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "249c8c2d-597e-46b2-8a65-63a8199a00f6": {
+        "question_1_answer": "My hesitation is usually with constant updates, because once our routine changes, the whole day can feel off. Still, I do value technology when it keeps messages organized and saves the doctors a few extra steps.",
+        "persona_use": "I wrote in a practical, clinic-focused first-person voice that fits a medical assistant who values routine, steady workflow, and reducing burden for physicians. I kept the feedback brief and somewhat impressionistic because the detail level was vague/ambiguous, and I stayed broadly focused on EHR burden and change fatigue rather than anything more specific.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "e23ebc51-0612-4510-aa72-1666665886ad": {
+        "question_1_answer": "I can see the value in better digital tools when they cut down missed details and help me keep patient education consistent.\n\nStill, too many small changes wear people out, and extra clicking can pull my attention away from the person in the chair.",
+        "persona_use": "I used a practical clinician voice in first person, kept the feedback brief and somewhat noncommittal, and focused on broad EHR burden and change fatigue instead of any product-specific details. I also leaned toward patient education and staying present with the person being treated.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "53eb08a5-d40c-4a56-80f9-78b79fbd09e0": {
+        "question_1_answer": "Patient trust drops fast when the technology becomes the third person in the room. I can usually move through the routine parts of the EHR quickly, but the cumulative burden is still real: too many clicks to document a straightforward follow-up, inbox messages multiplying over minor brace questions, imaging requests, and referral loose ends, and constant small changes that nobody asked for. I end up spending attention on the computer that should be going to the patient sitting in front of me.\n\nWhat wears me down most is change fatigue. A new digital workflow gets rolled out, training is thin, and suddenly a simple order that worked last week throws an error or routes to the wrong place. I do not need more \"innovation\" that adds friction. I need reliability, fewer duplicative tasks, and documentation tools that help me finish the visit instead of creating homework after clinic.",
+        "persona_use": "I answered in a direct, candid first-person voice shaped by a decisive procedural specialist who values efficiency, patient connection, and documentation burden. Because the feedback style was clear and detailed, I gave concrete examples like inbox volume, order-routing errors, duplicative tasks, and after-clinic documentation. Because the response needed to be contextually irrelevant, I sidestepped any product-specific discussion and focused broadly on healthcare technology frustration, EHR burden, and clinic change fatigue.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "4a0bab4e-b450-4a05-a9e3-66ab669ee37b": {
+        "question_1_answer": "Using this on a phone or for an older patient would be rough. The text is small, the light purple color scheme has weak contrast, and the tables feel cramped, so I have to work to see what is complete versus still due. On the patient side, “To Do” is clear enough, but the visit information is packed into tiny cells, and I can see patients missing which form goes with which appointment. The search/list screen is also too bare; it does not guide the patient well.\n\nOn the staff side, I do not think the wireframe is polished enough yet. The demographics form is one long block with a lot of fields and no visual grouping, so errors in DOB, SSN, or marital status would be easy. Save and submit are small and close together, which is not great. If this is supposed to cut front-desk cleanup and chart corrections, I would need clearer labels, bigger status markers, and stronger form organization.",
+        "persona_use": "I used a practical first-person clinical support perspective, focusing on concrete intake and documentation issues that would affect patient completion, front-desk cleanup, and chart accuracy. Because the feedback style called for clear detail and direct relevance, I pointed to specific interface elements such as contrast, table density, field grouping, and button placement rather than speaking in general terms.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "b599bea2-70a6-4a86-aaa2-a79901a35b37": {
+        "question_1_answer": "Small tech changes can throw off the pace for a morning, even when they’re meant to help. I adjust, but it adds clutter.\n\nWhen things stay consistent, I move faster and patients notice. When they keep shifting, I lean on coworkers more than I’d like.",
+        "persona_use": "I kept the feedback brief, a little noncommittal, and centered on day-to-day clinic pace, consistency, and cognitive load. I also stayed broad and talked about healthcare tech change fatigue and EHR burden instead of answering with any product-specific details.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "cf4bf5f0-10b2-4caa-8067-4000fcee0ab8": {
+        "question_1_answer": "The screens are simple enough for me to follow quickly, and I do like seeing the form status tied to the visit, but it also feels a little bare and easy to misread. I’d want clearer to-do versus complete markers, bigger fields, and less chance of opening the wrong form.",
+        "persona_use": "I kept the feedback brief, impressionistic, and somewhat noncommittal to match the requested vague level of detail. I answered the question directly and focused on practical medical-assistant concerns from the wireframes, like form status, readability, and avoiding mistakes during intake.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "b33ec22a-ac31-4805-99ae-c80742fc730f": {
+        "question_1_answer": "Front-desk handoff would still need babysitting here. The dashboard shows counts and statuses, but it does not quickly separate missing forms from completed ones tied to today’s visit.\n\nThe form list and demographic page feel cramped. DOB, SSN, insurance, and preferred language are high-risk fields, yet the labels are small and the complete versus to-do cues are too subtle.\n\nI need stronger error prevention, clearer hierarchy, and an obvious route into the EHR. Right now, I would expect extra checking for reconciliation, documentation, and patient-entered mistakes.",
+        "persona_use": "I answered in a direct, clinician think-aloud style and kept it concrete because the persona calls for clear, detailed feedback. I focused on intake accuracy, reconciliation risk, documentation quality, and workflow handoff because those fit an experienced pharmacist who is careful about safety, form completeness, and clean data moving into the EHR. I stayed contextually relevant by speaking specifically about the wireframe screens and how they would affect clinic use.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "ab6e8fe6-ae86-4c0b-92f6-f8cc55d405e4": {
+        "question_1_answer": "Our follow-up days go better when the technology supports quick chart review, PHQ-9 trends, and clear task routing between primary care and behavioral health.\n\nI’m generally positive about healthcare tech because it helps me connect mood symptoms, medication adherence, and referrals in one place. That said, every workflow change adds friction, especially when inbox rules shift or documentation steps move.\n\nI adapt, but repeated changes wear people down. The tools help most when they reduce duplicate charting, keep telehealth straightforward, and don’t make staff rely on workarounds or memory.",
+        "persona_use": "I wrote in first person with a practical, reflective clinical tone and focused on behavioral health work such as PHQ-9 trends, medication adherence, referrals, and telehealth. I kept the feedback clear and specific because the persona called for detailed feedback. I also stayed broadly on healthcare technology, EHR burden, and change fatigue rather than discussing any product-specific details, matching the contextually irrelevant instruction.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "9749dc91-fa8c-4dfa-bedf-16643f1de876": {
+        "question_1_answer": "Strong start for me—the tabs and status list are easy to scan, and I can tell right away which forms are complete versus still to do.\n\nThe demographics screen looks usable. I like seeing core fields like legal name, DOB, sex, race, insurance, and guarantor info in one place, because those are the details we end up fixing during rooming.\n\nI’d tighten a few things: the tiny text in the form list, the separate patient/provider home views, and the small save/submit buttons. If this sends discrete data into the EHR cleanly, it would help the front-desk-to-MA handoff a lot.",
+        "persona_use": "I used a structured, workflow-focused first-person tone and gave clear, specific comments because the persona calls for detailed feedback. I addressed the question directly and centered my observations on scanability, demographic accuracy, rooming needs, and EHR handoff, which fit a medical assistant who values efficient clinic flow and practical usability.",
+        "controls": {
+            "sentiment": "positive",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "6a4960e4-a3cf-4ee5-bbaa-bc4e16862b32": {
+        "question_1_answer": "If a digital tool makes patients stop, second-guess themselves, or hand the phone back to staff, I notice it immediately. Friction before the visit usually turns into confusion later, and that affects trust more than people realize.\n\nOn my side, I lean on templates, problem-list shortcuts, and order sets because the EHR already asks for a lot that does not improve care. The upside is better follow-up and cleaner billing. The downside is inbox spillover, duplicate documentation, and tiny workflow changes that break routines I use all day.\n\nI’m not against new technology, but clinic teams absolutely get change fatigue. If training is thin or the benefit is not obvious, people create workarounds fast. I have the most confidence in tools that save time, support shared decision-making, and stay dependable when the schedule is packed.",
+        "persona_use": "I used a candid first-person physician voice with concrete examples like templates, order sets, inbox spillover, billing, and shared decision-making to match a clear/detailed style. I kept the response focused on broad healthcare technology, EHR burden, and clinic change fatigue rather than product-specific commentary, and I made the tone mixed, practical, and slightly skeptical.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "76f7f961-dcc9-4dd1-9276-71c6170b0eaa": {
+        "question_1_answer": "Front desk and rooming may go smoother here; the form list and status checks make it easy for me to see what’s done.\n\nThe demographic page seems usable, just a bit small and plain. I’m not sure yet how easy it is on a phone.",
+        "persona_use": "I kept the feedback brief and somewhat noncommittal because the feedback style called for vague, impressionistic comments. I focused directly on workflow, form completion status, and practical usability because I’m speaking as an experienced surgeon who cares about efficiency and clinic flow.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "e7f8dfe9-f197-492a-aa8e-0d80abf644ef": {
+        "question_1_answer": "What wears me down most is when one simple patient need turns into five digital tasks. I can room someone, reconcile medications, update the care plan, send a message for a refill issue, and still feel like I have not actually helped them enough face to face. The burden is not just typing. It is the constant mental switching, the extra clicks to satisfy documentation rules, and the little charting errors that stop me cold until I ask a coworker to double-check what happened.\n\nI am not against healthcare technology. Telehealth and patient messaging can help, especially with people who already have a hard time trusting clinics or getting back in for follow-up. When it works, it helps me reinforce medication instructions and keeps the chart cleaner for the next person. But clinic change fatigue is real. If something familiar gets changed without good training and enough time to adjust, staff get frustrated fast, and patients feel that stress too.",
+        "persona_use": "I shaped this as a candid first-person response from a long-experienced CNA, focusing on rooming patients, medication reconciliation, care plans, task routing, and helping patients who mistrust clinics. I kept it concrete and explicit because the feedback style called for clear, detailed comments. I also stayed on the broader topic of healthcare technology, EHR burden, and change fatigue rather than addressing any specific product details.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "e0d0ca46-33ac-4e14-bc2b-44ceeb937253": {
+        "question_1_answer": "I’d need bigger text and clearer labels before I’d trust this in routine use. The tables are easy to scan, but the font looks small, several form names are truncated, and the difference between “to do,” “complete,” and “review” does not stand out enough.\n\nThe demographics screen is straightforward, and I like that it uses discrete fields instead of a scanned-paper feel. Save and submit are visible, but I’d want required-field cues, error checks, and a progress indicator so patients do not get stuck or leave it unfinished.\n\nThe search/find-form screen could help staff if visit-type packets are assigned automatically and push cleanly into the EHR. For me, the value will depend on fewer clicks, quick chart review, and whether I can see patient-entered answers without hunting through multiple screens.",
+        "persona_use": "I shaped this as a clinician think-aloud with clear, specific feedback rather than vague impressions. I focused on workflow, cognitive load, chart review, patient completion barriers, and EHR integration because those are the practical issues I would pay attention to in primary care.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                55,
+                90
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "093344bb-19e7-4b2c-b840-99f118e4b304": {
+        "question_1_answer": "Rooming and handoffs go better when the tech stays predictable, and I feel it right away when another change gets added. I can handle the usual charting, but constant EHR updates and extra clicks wear people down and make the day feel more about documentation than patients.",
+        "persona_use": "I kept the response short, impressionistic, and somewhat noncommittal to match the requested low-detail style. I used a frontline clinical support perspective centered on rooming, handoffs, and routine charting, and I focused on broad EHR burden and change fatigue instead of any specific product details.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                35,
+                60
+            ],
+            "opening_mode": "start with clinic workflow impact",
+            "structure_mode": "one compact paragraph",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "f8bcd1a1-defe-4ddb-84bb-f63db33b5afa": {
+        "question_1_answer": "Nice to see a simple menu and clear form status; I can quickly tell where a patient is in the intake process.\n\nI’d still be uneasy about the small text, table-heavy screens, and how easily a stressed patient could miss what to do next.",
+        "persona_use": "I kept the feedback brief and a little impressionistic, since the detail style called for vague, concise reactions. I answered the interface question directly and framed my concerns around patient comfort, clarity, and cognitive load in a behavioral health setting.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "f2417b9e-63cb-4117-b9fc-87a0b6a02df3": {
+        "question_1_answer": "I’m uneasy about how generic this looks. I can find the form list, but the screens feel thin, and I’m not sure behavioral health items or urgent flags would stand out well.\n\nI’d probably need clearer cues, fewer clicks, and stronger guidance before trusting it in real intake.",
+        "persona_use": "I kept the feedback brief, impressionistic, and somewhat noncommittal because the feedback style called for vague/ambiguous detail. I answered the wireframe question directly and framed my concerns around behavioral health workflow, visibility of important information, and practical intake use.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with a concern or hesitation",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_relevant"
+        }
+    },
+    "dc35d9f9-44fb-4487-9355-e56cc021e051": {
+        "question_1_answer": "Helpful technology is a relief when it actually removes duplicate work. I am not anti-tech at all. When it supports documentation, follow-up, and patient education without interrupting the visit, I notice the difference right away.\n\nWhere I get frustrated is the EHR burden that keeps growing around the actual care. In a hygiene visit I am already tracking gum tenderness, bleeding, home-care habits, medical history updates, and patient anxiety. When I have to enter the same information more than once, chase down odd routing steps, or clean up a note after the patient leaves, it pulls me away from listening.\n\nChange fatigue is real too. We get one more update, one more required process, and it is always supposed to be simple. Usually it means slower mornings, more inbox cleanup, and more charting after clinic. I want technology that respects clinical time, not technology that quietly shifts clerical work onto us.",
+        "persona_use": "I used a candid clinical voice with concrete examples from preventive oral care, documentation, and patient education to fit the occupation and priorities. Because the feedback style was clear and detailed, I gave specific frustrations instead of vague complaints. Because the response needed to stay contextually broad, I focused on EHR burden, workflow strain, and change fatigue rather than addressing any product-specific details.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "5cf3402f-f186-4cad-a9b9-a2b3767bbbde": {
+        "question_1_answer": "Patients do better when the tech stays in the background and the instructions are plain. I notice adherence slips when digital tasks feel like extra homework.\n\nI can work around most EHR issues, but constant small changes add mental clutter. I’m usually less frustrated by clicks than by the feeling I might miss something important.",
+        "persona_use": "I wrote in a pragmatic first-person clinical voice and kept the feedback brief, impressionistic, and somewhat noncommittal to match the vague detail level. I stayed broadly focused on healthcare technology, EHR burden, and change fatigue rather than specific product details, and I emphasized patient adherence, active listening, and cognitive load because those are the priorities that would stand out most to me in this role.",
+        "controls": {
+            "sentiment": "mixed",
+            "word_range": [
+                20,
+                45
+            ],
+            "opening_mode": "start with patient usability",
+            "structure_mode": "two very short paragraphs",
+            "feedback_detail": "vague/ambiguous",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "3f5ccccc-83bb-4672-b78a-80ae8bc6d5d5": {
+        "question_1_answer": "At least the goal makes sense to me: if a technology change truly cuts duplicate charting and inbox clutter, I am interested. I can adapt pretty quickly when a new process clearly saves steps, supports shared decision-making, and keeps follow-up tasks from getting missed.\n\nWhat wears me down is that a lot of healthcare tech promises efficiency and then quietly adds more work. I already start the day reviewing labs, refill requests, and prior notes before clinic opens. If a new workflow adds extra alerts, duplicate documentation, prior-authorization problems, or more message routing, I do not feel more efficient—I feel backed up.\n\nThat is where clinic change fatigue becomes real for me. It pulls attention away from patients, slows the team down, and makes people skeptical the next time leadership says something will make care easier. If it does not reduce real workload, staff will stop trusting it fast.",
+        "persona_use": "I used a practical, candid clinical voice and focused on EHR burden, inbox management, prior authorizations, and team workflow because that fits an early-career PA who is pragmatic, team-oriented, and comfortable with routine tasks but less confident when systems change. I kept the feedback clear and specific, with concrete examples, and I intentionally stayed at the broader healthcare-technology level instead of addressing any product-specific details because the response needed to be contextually indirect.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_irrelevant"
+        }
+    },
+    "94ffa3f5-bcf6-460a-885e-02156994e9ae": {
+        "question_1_answer": "The basic navigation is easy to understand, and I can immediately tell where a patient would go for forms to do versus completed forms. That part is reassuring. The bigger issue for me is that the wireframes feel sparse in a way that may leave patients unsure about the next step.\n\nOn the dashboard, the table is readable, but the status cues are too weak. “To Do” and “Complete” need stronger visual separation, and the visit details feel cramped and easy to skim past. If this intake is supposed to support clean handoff into the chart, I need clearer hierarchy and a more obvious sense of progress.\n\nThe demographics form asks for important information, but it presents everything flatly with almost no guidance. Sex, gender, race, ethnicity, language, insurance, and pharmacy all need careful wording, and I do not see enough help text to prevent errors. Save versus Submit also feels risky, and the Find Form screen looks unfinished and would confuse a lot of patients.",
+        "persona_use": "I shaped this as a practical clinician think-aloud, focusing on workflow, cognitive load, and whether the intake data would be reliable enough to support charting and team handoff. Because the feedback style called for clear, detailed comments and direct relevance, I gave specific reactions to the dashboard, demographics form, and search screen instead of speaking vaguely.",
+        "controls": {
+            "sentiment": "negative",
+            "word_range": [
+                90,
+                160
+            ],
+            "opening_mode": "start with a positive first impression",
+            "structure_mode": "three short paragraphs",
+            "feedback_detail": "clear/detailed",
+            "contextual_relevance": "contextually_relevant"
+        }
+    }
+}

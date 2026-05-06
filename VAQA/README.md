@@ -1,0 +1,3 @@
+# VAQA
+
+> This small test dataset contains 30 unique question-answer pairs with 3 questions and 10 answers to each question. This dataset was originally created to evaluate the Flight module in the ClarifAI LLM-assisted clarification pipeline, to conduct vagueness/ambiguity classifications. Half of the answers to each question are obviously vague/ambiguous, where the other half are obviously clear/detailed. Labels are either VA (vague/ambiguous) or C (clear/detailed). Additional follow up questions are listed for all VA QA pairs, enabling an evaluation on question type evaluation with LLM and human annotations.
